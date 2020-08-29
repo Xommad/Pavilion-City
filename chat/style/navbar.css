@@ -1,0 +1,80 @@
+.logobg {
+    position: absolute;
+    width: 60%;
+    height: 65px;
+    background-image: none;
+    background-color: rgb(60, 60, 60);
+    text-align: center;
+    top: 0px;
+    left: 19.5%;
+}
+
+  .logotxt {
+    position: absolute;
+    width: 214.937px;
+    height: 65px;
+    font-family: Verdana;
+    font-size: 40px;
+    background-image: none;
+    background-color: transparent;
+    border-image-source: none;
+    border-image-width: 1;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    left: 325px;
+    top: 3px;
+}
+
+.newspaperbutton {
+    position: absolute;
+    width: 97.6px;
+    height: 45.4px;
+    left: 498px;
+    top: 9px;
+    border-image-width: 1;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    background-color: #707070;    
+}
+ 
+    .newspapertext {
+        position: absolute;
+        width: 97.2px;
+        height: 44.6px;
+        font-size: 20px;
+        left: 502px;
+        top: 21px;
+        border-image-source: -webkit-linear-gradient(left, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+        background-color: transparent;
+        background-image: none;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+    }
+
+.newspaperbutton {
+    position: absolute;
+    width: 97.6px;
+    height: 45.4px;
+    left: 498px;
+    top: 9px;
+    border-image-width: 1;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    background-color: #707070;    
+}
+ 
+    .newspapertext {
+        position: absolute;
+        width: 97.2px;
+        height: 44.6px;
+        font-size: 20px;
+        left: 502px;
+        top: 21px;
+        border-image-source: -webkit-linear-gradient(left, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+        background-color: transparent;
+        background-image: none;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+    }
